@@ -1,1 +1,17 @@
+**Prevention Guide: Stay Safe from Cybercrime**
 
+To protect yourself from cybercrimes like UPI fraud, it is essential to follow safe online practices.
+
+First, never share your UPI PIN, OTP, passwords, or banking details with anyone, even if they claim to be from a bank or official authority. Banks never ask for such confidential information.
+
+Always remember that entering your UPI PIN means you are sending money, not receiving it. Be cautious when approving payment requests and double-check all details before confirming any transaction.
+
+Avoid clicking on unknown or suspicious links received through messages, emails, or social media. These links may lead to fake websites designed to steal your information. Only use official apps and websites for financial transactions.
+
+Enable security features such as two-factor authentication and app locks on your devices. Regularly update your apps and phone software to stay protected from security vulnerabilities.
+
+Do not accept calls or messages from unknown numbers asking for financial details. If you receive such requests, ignore them and report the number immediately.
+
+In case of fraud, act quickly by reporting the incident on the National Cyber Crime Portal (cybercrime.gov.in) or calling the helpline number 1930. Immediate action increases the chances of recovering lost money.
+
+By staying alert, verifying information, and following safe practices, students can protect themselves from cyber threats and ensure a secure digital experience.
